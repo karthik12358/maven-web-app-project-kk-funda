@@ -97,13 +97,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>KK FUNDA Releases Nexus Repository</name>
+	      <name>karthik Releases Nexus Repository</name>
 	      <url>http://13.234.122.133:8081/repository/jio-releaase1/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>KK FUNDA Snapshot Nexus Repository </name>
+	      <name>Karthik Snapshot Nexus Repository </name>
                   <url>http://13.234.122.133:8081/repository/jio-snapshot1/</url>
 	    </snapshotRepository>
 	    
