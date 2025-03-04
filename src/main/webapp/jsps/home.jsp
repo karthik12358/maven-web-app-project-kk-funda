@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Karthik DevOps with aws,linux and src</h1>
-<h1 align="center"> karthik devops</h1>
+<h1 align="center"> karthik devops traninig center</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
