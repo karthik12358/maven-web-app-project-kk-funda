@@ -40,15 +40,15 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		+91-9676831734,+91-9676831734
 		kollakarthik21@gmail.com.com
 		<br>
-		<a href="mailto:kkeducation@gmail.com">Mail to KK FUNDA</a>
+		<a href="mailto:kollakarthik21@gmail.com">Mail to KK FUNDA</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>KK FUNDA Training, Development Center.</p>
-<p align=center><small>Copyrights 2024 by <a href="google.com/">KK FUNDA</a> </small></p>
+<p align=center>Kolla karthik Training, Development Center.</p>
+<p align=center><small>Copyrights 2024 by <a href="google.com/">Kolla karthik</a> </small></p>
 
 </body>
 </html>
