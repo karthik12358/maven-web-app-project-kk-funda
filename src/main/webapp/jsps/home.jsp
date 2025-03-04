@@ -34,11 +34,11 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/kkfunda.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		KK FUNDA, 
-		Martha Halli, Banglore,
-		Bangalore,
+		karthik devops, 
+		rajampet, kadapa,
+		kadapa,
 		+91-9676831734,+91-9676831734
-		kkeducationblr@gmail.com
+		kollakarthik21@gmail.com.com
 		<br>
 		<a href="mailto:kkeducation@gmail.com">Mail to KK FUNDA</a>
 	</span>
