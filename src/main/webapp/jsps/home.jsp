@@ -37,7 +37,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		karthik devops, 
 		rajampet, kadapa,
 		kadapa,
-		+91-9676831734,+91-9676831734
+		+91-8499948361,+91-8499948361
 		kollakarthik21@gmail.com.com
 		<br>
 		<a href="mailto:kollakarthik21@gmail.com">Mail to KK FUNDA</a>
