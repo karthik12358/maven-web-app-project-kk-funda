@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Karthik DevOps with aws,linux and src</h1>
+<h1 align="center">Welcome to Karthik DevOps and src</h1>
 <h1 align="center"> karthik devops traninig center</h1>
 <hr>
 <br>
