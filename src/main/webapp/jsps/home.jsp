@@ -34,8 +34,8 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/kkfunda.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Karthik devops FUNDA, 
-		Martha Halli, Banglore,
+		Karthik devops rajampet, 
+		rajampet,hyd,atp
 		Bangalore,atp,tpt
 		+8499948361,+8499948361
 		kkeducationblr@gmail.com
