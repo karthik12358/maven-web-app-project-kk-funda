@@ -34,9 +34,9 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/kkfunda.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Karthik devops rajampet, 
-		rajampet,hyd,atp
-		Bangalore,atp,tpt
+		Karthik training, 
+		rajampet,tpt
+		Bangalore,kadapa
 		+8499948361,+8499948361
 		kkeducationblr@gmail.com
 		<br>
