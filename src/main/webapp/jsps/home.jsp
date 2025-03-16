@@ -37,7 +37,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		Karthik training, 
 		rajampet,tpt
 		Bangalore,kadapa
-		+8499948361,+8499948361
+		+8499948361,9390674062
 		kkeducationblr@gmail.com
 		<br>
 		<a href="mailto:kkeducation@gmail.com">Mail to KK FUNDA</a>
