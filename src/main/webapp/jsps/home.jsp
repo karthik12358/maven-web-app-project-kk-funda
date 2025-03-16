@@ -47,7 +47,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>KK FUNDA Training, Development Center.</p>
+<p align=center>Karthik devops and Development Center.</p>
 <p align=center><small>Copyrights 2024 by <a href="google.com/">KK FUNDA</a> </small></p>
 
 </body>
