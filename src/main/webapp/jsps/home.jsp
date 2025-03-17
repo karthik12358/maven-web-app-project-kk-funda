@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Karthik linux aws devops</h1>
-<h1 align="center"> Karthik linux aws devops</h1>
+<h1 align="center">Welcome to chowdary tech solutions</h1>
+<h1 align="center"> chowdary tech solutions</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
