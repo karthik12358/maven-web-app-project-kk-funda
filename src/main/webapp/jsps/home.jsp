@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Karthik DevOps java linux</h1>
-<h1 align="center"> KK FUNDA</h1>
+<h1 align="center">Welcome to Karthik DevOps java maven</h1>
+<h1 align="center"> Karthik funda</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
