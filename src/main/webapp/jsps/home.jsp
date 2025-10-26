@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Karthik DevOps linux</h1>
+<h1 align="center">Welcome to Karthik DevOps java linux</h1>
 <h1 align="center"> KK FUNDA</h1>
 <hr>
 <br>
